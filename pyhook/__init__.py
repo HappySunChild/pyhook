@@ -46,6 +46,9 @@ class Embed:
 	def set_title(self, title: str):
 		self.title = title
 	
+	def add_image(self, url: str):
+		self.image = {'url': url}
+	
 	def set_description(self, desc: str):
 		self.description = desc
 	
