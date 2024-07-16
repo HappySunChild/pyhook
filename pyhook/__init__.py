@@ -37,6 +37,7 @@ class Embed:
 		self.url = kwargs.get('url')
 		self.footer = kwargs.get('footer')
 		self.author = kwargs.get('author')
+		self.image = None
 		
 		self.fields = []
 	
@@ -46,7 +47,7 @@ class Embed:
 	def set_title(self, title: str):
 		self.title = title
 	
-	def add_image(self, url: str):
+	def set_image(self, url: str):
 		self.image = {'url': url}
 	
 	def set_description(self, desc: str):
