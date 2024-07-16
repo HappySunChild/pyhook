@@ -72,6 +72,7 @@ class Embed:
 			
 			'url': self.url,
 			
+			'image': self.image,
 			'fields': self.fields,
 			'footer': self.footer,
 			'author': self.author,
