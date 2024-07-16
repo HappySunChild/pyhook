@@ -2,7 +2,7 @@ import setuptools
 
 setup_info = {
 	'name': 'pyhook',
-	'version': '1.0',
+	'version': '1.0.5',
 	'author': 'HappySunChild',
 	'description': 'A python for interfacing with Discord\'s webhook API. Designed to work with python 3.9+',
 	'url': 'https://github.com/HappySunChild/pyhook',
