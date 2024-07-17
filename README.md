@@ -1,5 +1,5 @@
 # pyhook
-A python for interfacing with Discord's webhook API.
+A python library for interfacing with Discord's webhook API.
 
 ### Installer:
 ```
