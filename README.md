@@ -6,4 +6,4 @@ A python library for interfacing with Discord's webhook API.
 pip install git+https://github.com/HappySunChild/pyhook
 ```
 
-This has been ceded by https://github.com/HappySunChild/discord
+This has been superseded by https://github.com/HappySunChild/discord
